@@ -3,10 +3,10 @@ Azure AI services provide a robust set of tools and APIs that can enhance your G
 
 ## 1. Cognitive Services
    
-### Vision: Integrate image recognition, facial detection, and analysis into your applications. Use APIs for tasks like tagging images or detecting objects.
-### Speech: Convert speech to text and vice versa. This is useful for applications that require voice interaction or transcription.
-### Language: Analyze text for sentiment, extract key phrases, or translate content. This can enhance applications that rely on natural language processing (NLP).
-### Decision: Leverage personalization and anomaly detection features to improve user experience and identify unusual patterns in data.
+#### Vision: Integrate image recognition, facial detection, and analysis into your applications. Use APIs for tasks like tagging images or detecting objects.
+#### Speech: Convert speech to text and vice versa. This is useful for applications that require voice interaction or transcription.
+#### Language: Analyze text for sentiment, extract key phrases, or translate content. This can enhance applications that rely on natural language processing (NLP).
+#### Decision: Leverage personalization and anomaly detection features to improve user experience and identify unusual patterns in data.
 
 ## 2. Machine Learning
 -Azure Machine Learning: Build, train, and deploy machine learning models directly from your GitHub repository. You can use pre-built algorithms or bring your own models.
@@ -34,4 +34,4 @@ Azure AI services provide a robust set of tools and APIs that can enhance your G
   #### Image Analysis: Create applications that analyze and categorize images for various industries.
   #### Data Insights: Use AI to extract insights from large datasets within your applications.
   
-# By leveraging Azure AI services, you can significantly enhance the capabilities of your applications hosted on GitHub, making them smarter, more efficient, and more user-friendly.
+###### By leveraging Azure AI services, you can significantly enhance the capabilities of your applications hosted on GitHub, making them smarter, more efficient, and more user-friendly.
