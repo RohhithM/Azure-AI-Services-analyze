@@ -28,7 +28,7 @@ Azure AI services provide a robust set of tools and APIs that can enhance your G
 ## 7. Documentation and Community
 -Azure provides comprehensive documentation and a supportive community, making it easier to implement AI features in your GitHub projects.
 
-  #Use Cases
+  ### Use Cases
 
   #### Chatbots: Build intelligent chatbots that can understand and respond to user inquiries.
   #### Image Analysis: Create applications that analyze and categorize images for various industries.
