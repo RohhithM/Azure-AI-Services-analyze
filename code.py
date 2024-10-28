@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from openai import AzureOpenAI
 
 def main(): 
-        
+       
     try:
         # Flag to show citations
         show_citations = False
