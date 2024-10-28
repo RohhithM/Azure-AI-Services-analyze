@@ -158,7 +158,7 @@ def BackgroundForeground(endpoint, key, image_file):
         "Content-Type": "application/json" 
     }
 
-    image_url="https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Labfiles/01-analyze-images/Python/image-analysis/{}?raw=true".format(image_file)  
+    image_url="https:/mslearn.formate(image_file)  
 
     body = {
         "url": image_url,
