@@ -35,3 +35,19 @@ Azure AI services provide a robust set of tools and APIs that can enhance your G
   #### Data Insights: Use AI to extract insights from large datasets within your applications.
   
 ###### By leveraging Azure AI services, you can significantly enhance the capabilities of your applications hosted on GitHub, making them smarter, more efficient, and more user-friendly.
+
+## Programs lists:
+
+### 1.Get Started with Azure AI Services : Sdk-client.py
+### 2.Analyze Images with Azure AI Vision : image-analysis.py
+### 3.Read Text in Images : Read-text.py
+### 4.Classify images with a Azure AI Vision custom model : Same above code 
+./replace.ps1
+Image-classification.
+### 5.Analyze Text : Analyze-txt.py
+### 6.Create a Question Answering Solution : Ana-app.py
+### 7.Create a language understanding model with the Language service : Clock-client.py
+### 8.Recognize and synthesize speech : Speaking-clock.py
+### 9.Integrate Azure OpenAI into your app : Test-openai-model.py
+### 10.Utilize prompt engineering in your app : Prompt-engineering.py
+### 11.Use your own data with Azure OpenAI : ownData.py
