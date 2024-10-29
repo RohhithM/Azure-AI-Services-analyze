@@ -44,7 +44,7 @@ Azure AI services provide a robust set of tools and APIs that can enhance your G
 ### 4.Classify images with a Azure AI Vision custom model : Same above code 
 ./replace.ps1
 Image-classification.
-### 5.Analyze Text : Analyze-txt.py
+### 5.Analyze Text : Analyze-load.py
 ### 6.Create a Question Answering Solution : Ana-app.py
 ### 7.Create a language understanding model with the Language service : Clock-client.py
 ### 8.Recognize and synthesize speech : Speaking-clock.py
